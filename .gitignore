@@ -1,0 +1,9 @@
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment
+venv/
+
+# Ignore your local database file
+students.db
